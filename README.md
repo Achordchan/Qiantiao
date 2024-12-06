@@ -1,6 +1,7 @@
 <div align="center">
   # 钱条 - macOS 工资计算器
 </div>
+
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://www.apple.com/macos)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -11,6 +12,8 @@
   <img src="icon.svg" width="128" height="128" alt="钱条图标">
   <p>一个优雅的 macOS 菜单栏应用，用于实时计算和显示牛马们工作收入。</p>
 </div>
+
+<img width="426" alt="image" src="https://github.com/user-attachments/assets/a9daebb2-642a-4a2f-a78a-1852f79bf754">
 
 ## ✨ 功能特点
 
