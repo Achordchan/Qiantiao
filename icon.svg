@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- 背景圆圈 -->
+    <defs>
+        <linearGradient id="coinGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    
+    <!-- 主圆圈 -->
+    <circle cx="256" cy="256" r="240" fill="url(#coinGradient)" />
+    
+    <!-- 美元符号 -->
+    <path d="M256 96c-88.4 0-160 71.6-160 160s71.6 160 160 160 160-71.6 160-160S344.4 96 256 96zm0 280c-66.3 0-120-53.7-120-120s53.7-120 120-120 120 53.7 120 120-53.7 120-120 120zm40-180h-20v-40h-40v40h-20c-22.1 0-40 17.9-40 40v20c0 22.1 17.9 40 40 40h40v40h-60v-20h-40v40c0 22.1 17.9 40 40 40h20v40h40v-40h20c22.1 0 40-17.9 40-40v-20c0-22.1-17.9-40-40-40h-40v-40h60v20h40v-40c0-22.1-17.9-40-40-40z"
+          fill="white"/>
+</svg> 
