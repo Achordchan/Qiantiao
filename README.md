@@ -1,5 +1,6 @@
-# 钱条 - macOS 工资计算器
-
+<div align="center">
+  # 钱条 - macOS 工资计算器
+</div>
 [![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/platform-macOS-lightgrey.svg)](https://www.apple.com/macos)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
